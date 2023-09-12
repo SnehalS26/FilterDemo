@@ -1,0 +1,32 @@
+﻿
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:27 AM
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:27 AM
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:27 AM
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:30 AM
+----------------------------------
+
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->12/09/2023 11:07:48 AM
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->12/09/2023 11:07:48 AM
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->12/09/2023 11:07:48 AM
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->12/09/2023 11:07:48 AM
+----------------------------------
+
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:50 AM
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:50 AM
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:50 AM
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:50 AM
+----------------------------------
+
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:51 AM
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:51 AM
+----------------------------------
+
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:51 AM
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->12/09/2023 11:07:51 AM
+----------------------------------
